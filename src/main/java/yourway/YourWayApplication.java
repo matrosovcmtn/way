@@ -10,4 +10,5 @@ public class YourWayApplication {
 		SpringApplication.run(YourWayApplication.class, args);
 	}
 
+
 }
